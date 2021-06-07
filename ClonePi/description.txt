@@ -1,1 +1,3 @@
-ClonePi is 
+ClonePi версия импульсного металлоискателя (МД) Clone PI-AVR (который с двухстрочным ЖК-экраном).  Разроботчик прибора - http://fandy.hut2.ru/ClonePI_W.htm
+
+
