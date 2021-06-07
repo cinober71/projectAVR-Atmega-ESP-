@@ -1,1 +1,2 @@
-Quazar ARM is
+Quazar ARM 
+firmware, scheme and implementation
